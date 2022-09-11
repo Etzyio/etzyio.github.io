@@ -27,7 +27,7 @@ github_username:  etzyio
 markdown: kramdown 
 # theme: jekyll-theme-yat
 #remote_theme: "jeffreytse/jekyll-theme-yat"
-remote_theme: "LeNPaul/Lagrange"
+remote_theme: "bradleytaunt/ET-Jekyll"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
