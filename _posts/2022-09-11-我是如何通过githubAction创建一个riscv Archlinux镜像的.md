@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "我是如何通过githubAction创建一个riscv Archlinux镜像的"
-date:   2022-07-11 20:26:24 +0800
+date:   2022-09-11 20:26:24 +0800
 tags:   [github, CICD]
 categories: github
 ---
