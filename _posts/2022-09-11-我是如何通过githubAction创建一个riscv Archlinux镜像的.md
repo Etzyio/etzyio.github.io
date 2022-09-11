@@ -52,7 +52,7 @@ jobs:
 >uses 使用的插件，Action存在很多插件可供选择\
 >actions/checkout@v2 克隆此项目\
 >actions/upload-artifact@v3 发布文件\
->${{ github.event.commits[0].id }} 是此github commit的id号，为将其push镜像到本机测试时使用的tag，实际操作中仅用于docker run。
+>github.event.commits[0].id 是此github commit的id号，为将其push镜像到本机测试时使用的tag，实际操作中仅用于docker run。
 
 ## 构建Docker镜像
 
